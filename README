@@ -1,7 +1,17 @@
-### To create database and usersTable run following command:
-##    node migrations/20250325-create-users-table.js
+# Database Setup and Server Instructions
 
-<br/>
+## Create Database and Users Table
 
-### To run your server run following command:
-## npm run start
+To create the database and the `usersTable`, run the following command:
+
+```bash
+node migrations/20250325-create-users-table.js
+```
+
+## Run Your Server
+
+To run your server, use the following command:
+
+```bash
+npm run start
+```
