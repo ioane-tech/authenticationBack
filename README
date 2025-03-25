@@ -1,4 +1,4 @@
-###To create database and usersTable run following command:
+### To create database and usersTable run following command:
 ##    node migrations/20250325-create-users-table.js
 
 <br/>
